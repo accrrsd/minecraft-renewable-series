@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "show_notification": true,
+    "category": "building",
+    "pattern": [
+        "sss",
+        "sLs",
+        "sss"
+    ],
+    "key": {
+        "L": {
+            "item": "minecraft:lava_bucket"
+        },
+        "s": {
+            "item": "minecraft:stone"
+        }
+    },
+    "result": {
+        "id": "minecraft:deepslate",
+        "count": 8
+    }
+}
