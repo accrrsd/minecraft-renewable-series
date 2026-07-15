@@ -1,8 +1,7 @@
 {
   "pack": {
-    "pack_format": 101,
-    "min_format": 101,
-    "max_format": 999,
-    "description": "Renewable: Sand and Gravel"
+    "min_format": [101, 1],
+    "max_format": [999, 1],
+    "description": "Renewable Calcite Tuff Deepslate"
   }
 }
